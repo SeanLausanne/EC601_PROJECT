@@ -16,6 +16,8 @@ Target Customer:
 ------------------------------------------------------------------------------------------
 Timeline
 
+Sprint1(9/10 - 9/25): establish our mission and user stories
+
 Sprint2(9/26 - 10/06): review and investigate background ,look for algorithms for tracking.
 
 Sprint3(10/07 - 11/10): build a classifier for a soccer ball.combine to get the best classifier
